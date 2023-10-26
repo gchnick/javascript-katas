@@ -9,7 +9,7 @@ The point of this kata to to provide a larger than trivial exercise that can be 
 portion of the effort will be in determining what tests should be written and, more importantly, written next.
 
 Features
-========q
+========
 
 Accept Coins
 ------------

@@ -1,4 +1,4 @@
-class VendingMachine {
+export class VendingMachine {
   static coins = {
     penny: 0.01,
     nickel: 0.05,
@@ -12,5 +12,3 @@ class VendingMachine {
     return false
   }
 }
-
-module.exports = VendingMachine

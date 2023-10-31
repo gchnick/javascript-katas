@@ -3,16 +3,11 @@
     "es2021": true,
     "node": true
   },
-  "extends": [
-    "standard",
-    "plugin:jest/recommended",
-    "plugin:jest/style",
-    "plugin:prettier/recommended"
-  ],
+  "extends": ["standard", "plugin:prettier/recommended"],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
   "rules": {},
-  "plugins": ["jest"]
+  "plugins": []
 }

@@ -7,6 +7,8 @@
         "ahmadawais.shades-of-purple",
         "ms-vsliveshare.vsliveshare",
         "dbaeumer.vscode-eslint",
-        "usernamehw.errorlens"
+        "usernamehw.errorlens",
+        "firsttris.vscode-jest-runner",
+        "esbenp.prettier-vscode"
     ]
 }

@@ -1,4 +1,4 @@
-const VendingMachine = require('./vending-machine')
+const VendingMachine = require('../src/vending-machine')
 
 describe('vending machine should', () => {
   test('accept coins', () => {
